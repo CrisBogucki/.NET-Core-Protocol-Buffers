@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQandProtocolBuffers", "RabbitMQandProtocolBuffers\RabbitMQandProtocolBuffers.csproj", "{D943D40E-660B-4F13-9654-378BC1F96BA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{D943D40E-660B-4F13-9654-378BC1F96BA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
