@@ -1,0 +1,9 @@
+syntax = "proto3";
+package tutorial;
+
+message Listing{
+	string ProgramName = 1;
+	string EpisodeName = 2;
+	int32 EpisodeNumber = 3;
+	bool IsLive = 4;
+}
