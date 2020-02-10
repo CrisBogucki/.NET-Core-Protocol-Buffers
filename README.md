@@ -1,5 +1,5 @@
 # .NET Core with Protocol Buffers
-![](https://cdn.safe.com/wp-content/uploads/2011/08/google-protocol-buffers.jpg)
+![](https://www.codespot.org/assets/cover/protocol-buffers.png)
 
 ### Step by step how to install protoc 
 - download Protocol Buffers source from https://github.com/protocolbuffers/protobuf/releases
