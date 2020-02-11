@@ -3,6 +3,14 @@
 
 ### Step by step how to install protoc 
 - download Protocol Buffers source from https://github.com/protocolbuffers/protobuf/releases
+- install tools
+    - `autoconf`
+    - `automake`
+    - `lobtool`
+    - `curl`
+    - `make`
+    - `g++`
+    - `unzip`
 - run this commands to install protoc:
     - `./autogen.sh`
     - `./configure` 
